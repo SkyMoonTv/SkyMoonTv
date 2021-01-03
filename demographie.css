@@ -1,0 +1,136 @@
+body{
+
+background-color: rgb(40,44,52) ;
+
+}
+
+@font-face{
+
+ font-family: belle;
+ src: url("lionking.woff");
+
+}
+
+a:hover{
+
+background-color:#9e0000;
+width: 125px;
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(33,37,43);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    font-family: verdana;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 25px;
+  text-decoration: none;
+
+}
+
+h1{
+
+ font-style: italic;
+ font-family: belle;
+ font-size: 100px;
+ color: rgb(157,165,180);
+ text-align: center;
+
+}
+
+h2{
+
+  font-family: verdana;
+  color: rgb(157,165,180);
+
+}
+
+p{
+
+  font-family: verdana;
+  color: rgb(200,200,200);
+
+}
+
+.box{
+
+  height: auto;
+  width: 1000px;
+  padding: 40px;
+  position: absolute;
+  left: 420px;
+  background: rgba(255,255,255,0.1);
+  text-align: left;
+
+}
+
+.box2{
+
+  height: auto;
+  width: 350px;
+  position: absolute;
+
+}
+
+.box3{
+
+  height: auto;
+  width: 350px;
+  position: absolute;
+  top: 879px;
+  left: 1550px;
+
+}
+
+.box4{
+
+  height: auto;
+  width: 350px;
+  top: 1424px;
+  position: absolute;
+
+}
+
+.box5{
+
+  height: auto;
+  width: 350px;
+  top: 1790px;
+  position: absolute;
+  left: 1550px;
+
+}
+
+.box6{
+
+  height: auto;
+  width: 350px;
+  top: 2265px;
+  position: absolute;
+
+}
+
+.box7{
+
+  height: auto;
+  width: 350px;
+  top: 2680px;
+  position: absolute;
+  left: 1550px;
+
+}
